@@ -507,12 +507,12 @@ a:hover {
 
 #banner {
     margin: 0px auto;
-    width: 1000px;
-    height: 340px;
     background: url(../images/img03.png) no-repeat left bottom;
 }
 
 #banner .content {
+  width: 100%;
+  height: 20rem;
 }
 
 
