@@ -105,7 +105,7 @@ a {
     margin: 0;
     padding: 0px 0 0 0px;
     letter-spacing: -1px;
-    font: normal 18px Georgia, "Times New Roman", Times, serif;
+    font: normal 20rem Georgia, "Times New Roman", Times, serif;
     font-style: italic;
     color: rgb(142, 142, 142);
 }
@@ -121,13 +121,14 @@ a {
     color: rgb(0, 0, 0);
 }
 
-/* Splash */
-
+/* Splash
+/
 #splash {
     width: 960px;
     height: 300px;
     margin: 0px auto;
 }
+*/
 
 /* Search
 
@@ -473,7 +474,7 @@ a {
 #footer a {
     color: rgb(94, 94, 94);
 }
-
+/*
 #marketing {
     overflow: hidden;
     margin-bottom: 30px;
@@ -481,7 +482,6 @@ a {
     border-top: 1px solid rgb(231, 235, 237);
     border-bottom: 1px solid rgb(231, 235, 237);
 }
-/*
 #marketing .text1 {
     float: left;
     margin: 0px;
@@ -531,7 +531,6 @@ a {
 .list-style1 a {
     color: rgb(127, 127, 127);
 }
-
 
 @media screen and (max-width: 749px){
     #menu a {
